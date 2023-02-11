@@ -51,17 +51,6 @@ a::before{
     
 }
 
-#send{
-    background-color: #BA1F33;
-    border-radius: 10px;
-    height: 60px;
-    font-size: 30px;
-    font-family: "Fira Code", sans-serif, Arial;
-    margin-top: 800px;
-    box-shadow: 5px -5px 0px white;
-
-}
-
 footer {
     background-color: black;
     height: 50px;
