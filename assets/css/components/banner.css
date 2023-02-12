@@ -1,0 +1,8 @@
+.banner{
+    background-image: url(../../img/Banner.png);
+    height: 1063px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-bottom: 10px solid rgb(255, 255, 255);
+    margin-top: 0px;
+}
