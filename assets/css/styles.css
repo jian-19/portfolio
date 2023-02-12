@@ -43,11 +43,12 @@ a::before{
     padding: 18px 20px;
     border-radius: 10px;
     margin-right: 0px;
+    transition: transform 95ms linear, opacity 95ms ease-in-out;
 }
 
 #button:hover{
-    background-color: #3A4042;
-    box-shadow: 5px -5px 0px black;
+    transform: scale(1.05);
+    opacity: 80%;
     
 }
 
