@@ -1,0 +1,23 @@
+.action {
+    display: inline-flex;
+    align-items: center;
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 30px;
+    transition: transform 95ms linear, opacity 95ms ease-in-out;
+}
+
+.action::before{
+    content:"";
+    display: inline-flex;
+    margin-right: 10px;
+    background-color: black;
+    width: 10px;
+    height: 10px;
+    border-radius: 10px;
+}
+
+.action:hover{
+    transform: scale(1.05);
+    opacity: 80%;
+}

@@ -9,6 +9,7 @@
     font-size: 20px;
     color: White;
     font-family: inherit;
+    text-decoration: none;
 }
 
 .buttons:hover {
