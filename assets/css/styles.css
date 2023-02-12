@@ -68,24 +68,14 @@ a::before{
     margin-right: 40px;
 }
 
-h1{
-    display: inline-flex;
-    height: 82px;
-    left: 442px;
-    top: 182px;
-    width: 611px;
-    font-size: 55px;
-    font-family: "Pacifico", Arial, sans-serif;
-    color:#BA1F33
-
-
+.socials:hover {
+    transform: scale(1.05);
+    opacity: 80%;
 }
 
-h2{
-    font-size: 48px;
-    font-family: "castoro", Arial, sans-serif;
-    color: white;
-
+.socials{
+    margin-right: 40px;
+    transition: transform 95ms linear, opacity 95ms ease-in-out;
 }
 
 footer {
@@ -93,4 +83,5 @@ footer {
     height: 50px;
     text-align: center;
     margin-top: 800px;
+    height: 100p;
 }
