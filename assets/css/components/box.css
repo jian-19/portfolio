@@ -1,0 +1,17 @@
+#box {
+    display: inline-block;
+    background-color: black;
+    box-shadow: 5px 5px 0px #3A4042;
+    border-radius: 10px;
+    text-align: center;
+    padding: 20px 40px;
+    align-items: center;
+}
+
+#box h1{
+    margin-bottom: 15px;
+}
+
+#box h2{
+    margin-bottom: 10px;
+}

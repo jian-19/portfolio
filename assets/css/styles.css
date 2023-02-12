@@ -11,10 +11,6 @@ nav {
 
 }
 
-body{
-    background-color: #3A4042;
-}
-
 a {
     display: inline-flex;
     align-items: center;
@@ -73,7 +69,7 @@ a::before{
     opacity: 80%;
 }
 
-.socials{
+.socials {
     margin-right: 40px;
     transition: transform 95ms linear, opacity 95ms ease-in-out;
 }
