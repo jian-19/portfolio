@@ -1,0 +1,18 @@
+.buttons {
+    display: inline-flex;
+    background-color: black;
+    box-shadow: 5px -5px 0px #3A4042;
+    padding: 20px 20px;
+    border-radius: 10px;
+    transition: transform 95ms linear, opacity 95ms ease-in-out;
+    margin-right: 40px;
+    font-size: 20px;
+    color: White;
+    font-family: inherit;
+}
+
+.buttons:hover {
+    transform: scale(1.05);
+    opacity: 80%;
+    
+}
