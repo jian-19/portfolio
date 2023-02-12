@@ -36,20 +36,56 @@ a::before{
     border-radius: 10px;
 }
 
-#button {
+.buttons {
     display: inline-flex;
     background-color: black;
     box-shadow: 5px -5px 0px #3A4042;
     padding: 18px 20px;
     border-radius: 10px;
-    margin-right: 0px;
     transition: transform 95ms linear, opacity 95ms ease-in-out;
+    margin-right: 40px;
 }
 
-#button:hover{
+.buttons:hover {
     transform: scale(1.05);
     opacity: 80%;
     
+}
+
+.button_dev:hover {
+    transform: scale(1.05);
+    opacity: 80%;
+    
+}
+
+.button_dev {
+    display: block;
+    background-color: black;
+    box-shadow: 5px -5px 0px #3A4042;
+    padding: 18px 20px;
+    border-radius: 10px;
+    transition: transform 95ms linear, opacity 95ms ease-in-out;
+    margin-right: 40px;
+}
+
+h1{
+    display: inline-flex;
+    height: 82px;
+    left: 442px;
+    top: 182px;
+    width: 611px;
+    font-size: 55px;
+    font-family: "Pacifico", Arial, sans-serif;
+    color:#BA1F33
+
+
+}
+
+h2{
+    font-size: 48px;
+    font-family: "castoro", Arial, sans-serif;
+    color: white;
+
 }
 
 footer {

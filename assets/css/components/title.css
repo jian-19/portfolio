@@ -1,0 +1,19 @@
+h1{
+    font-size: 55px;
+    font-family: "Pacifico", Arial, sans-serif;
+    color:#BA1F33;
+    text-align: center;
+    line-height: 75px;
+    font-style: italic;
+    text-shadow: 4px 4px 0px #ffffff;
+}
+
+h2{
+    font-size: 48px;
+    font-family: "Castoro", Arial, sans-serif;
+    color: white;
+    text-align: center;
+    line-height: 75px;
+    text-shadow: 4px 4px 0px #ff0000;
+
+}
