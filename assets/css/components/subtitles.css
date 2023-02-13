@@ -1,8 +1,8 @@
 .subtitles {
-    font-size: 60px;
-    font-family: "Pacifico", Arial, sans-serif;
+    font-size: 58px;
+    font-family: "Lilita One", Arial, sans-serif;
     color:#ffffff;
     text-align: center;
-    line-height: 75px;
-    text-shadow: 4px 4px 0px #BA1F33;
+    font-style: italic;
+    text-shadow: 4px 4px 0px #000000;
 }

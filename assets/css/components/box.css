@@ -1,8 +1,7 @@
 .box {
     display: inline-block;
-    background-color: black;
-    box-shadow: 5px 5px 0px #3A4042;
-    border-radius: 10px;
+    background-color: #BA1F33;
+    box-shadow: 5px 5px 0px white;
     text-align: center;
     padding: 20px 40px;
     margin-top: 50px;
@@ -16,3 +15,4 @@
 .box .subtitles {
     margin-bottom: 10px;
 }
+

@@ -1,0 +1,10 @@
+.about {
+    content: border-box;
+    background-image: url(../../img/Sobre.png);
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-bottom: 10px solid rgb(255, 255, 255);
+    padding-left: 720px;
+    padding-top: 30px;
+}

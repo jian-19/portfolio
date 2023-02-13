@@ -1,0 +1,9 @@
+.skills {
+    content: border-box;
+    background-image: url(../../img/Skills_white.png);
+    height: 970px;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    border-bottom: 10px solid rgb(255, 255, 255);
+    padding-left: 720px;
+}

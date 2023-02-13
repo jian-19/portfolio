@@ -1,7 +1,7 @@
-.buttons {
+.buttons_banner {
     display: inline-flex;
-    background-color: black;
-    box-shadow: 5px -5px 0px #3A4042;
+    background-color: #BA1F33;
+    box-shadow: 5px -5px 0px white;
     padding: 20px 20px;
     border-radius: 10px;
     transition: transform 95ms linear, opacity 95ms ease-in-out;
@@ -12,7 +12,7 @@
     text-decoration: none;
 }
 
-.buttons:hover {
+.buttons_banner:hover {
     transform: scale(1.05);
     opacity: 80%;
     
