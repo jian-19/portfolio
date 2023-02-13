@@ -1,18 +1,1 @@
 
-.socials:hover {
-    transform: scale(1.05);
-    opacity: 80%;
-}
-
-.socials {
-    margin-right: 40px;
-    transition: transform 95ms linear, opacity 95ms ease-in-out;
-}
-
-footer {
-    background-color: black;
-    height: 50px;
-    text-align: center;
-    margin-top: 800px;
-    height: 100p;
-}
