@@ -1,4 +1,4 @@
-.title {
+.main-title {
     font-size: 60px;
     font-family: "Pacifico", Arial, sans-serif;
     color:#000000;
@@ -6,7 +6,7 @@
     text-shadow: 3px 2px 0px #ffffff;
 }
 
-.title.-second{
+.main-title.-second{
     color: #ffffff;
     font-family: "Lilita One";
     font-style: italic;
@@ -16,7 +16,7 @@
     text-align: center;
 }
 
-.title.-second:hover{
+.main-title.-second:hover{
     transform: scale(1.05);
     opacity: 80%;
 }
