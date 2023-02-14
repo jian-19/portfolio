@@ -5,3 +5,18 @@
     text-align: center;
     text-shadow: 3px 2px 0px #ffffff;
 }
+
+.title.-second{
+    color: #ffffff;
+    font-family: "Lilita One";
+    font-style: italic;
+    text-shadow: 5px 5px 0px #000000;
+    transition: transform 95ms linear, opacity 95ms ease-in-out;
+    font-size: 130px;
+    text-align: center;
+}
+
+.title.-second:hover{
+    transform: scale(1.05);
+    opacity: 80%;
+}
