@@ -1,10 +1,21 @@
-@media only screen and (max-width: 480px) {
+@media (max-width: 360px) {
+    .header {
+        width: 1280px;
+
+    }
     .banner {
-        height: 500px;
+        height: 750px;
+        width: 700px;
+        
     }
 
-    .box{
-        margin-left: 0px;
+    .box {
+        margin-left: -500px;
+
+    }
+
+    .menu {
+        display: none;
     }
 
   }
